@@ -1,10 +1,10 @@
 :root { 
-  --bg:#fff; 
-  --fg:#0a0a0a; 
-  --muted:#666; 
-  --card:#f5f5f5; 
-  --accent:#111; 
-  --radius:16px; 
+  --bg:#0c0c0c; 
+  --fg:#f5f5f5; 
+  --muted:#aaa; 
+  --card:#1a1a1a; 
+  --accent:#c4a77d; 
+  --radius:16px;
 }
 
 @media (prefers-color-scheme: dark){
